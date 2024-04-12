@@ -3,6 +3,10 @@
 [![Package Version](https://img.shields.io/hexpm/v/glex)](https://hex.pm/packages/glex)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/glex/)
 
+## A simple lexer generator for Gleam
+
+`glex` is a simple lexer generator for Gleam. It is inspired by the [`rply`](https://github.com/alex/rply) lexer generator and [`glexer`](https://github.com/DanielleMaywood/glexer).
+
 ```sh
 gleam add glex
 ```
